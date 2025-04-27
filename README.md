@@ -5,6 +5,7 @@ This place is to log my machine learning study notes.
 General process of ML porjects
 1. Data Obtaining & Cleaning
 
+
 2. Data Preprocessing
     Data Cleaning: outlier/missing handling
     Numerical correlation Visuals
@@ -14,20 +15,26 @@ General process of ML porjects
     Scaling/Normalization
         Standardization: z-score based
         min-max scaler
-        
+
+
 3. Modeling
-    Explained below by model type
+    Regressioin:
+    Classification:
+    Time-series:
+    Deep-learning:
+        Nerual Network
+        DNN
+
 
 4. Evaluation
-    Explained below with model type
+    Regression: MSE, RMSE
+    Classification: logloss, cross-entropy
 
-5. Deployment
-    
 
-Regression
+5. Optimization
+    Bayesian optimization
+    Optuna
+    Loss Functions
 
-Classification
 
-Deep Learninig
-    Nerual Network
-    DNN
+6. Deployment
