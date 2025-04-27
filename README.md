@@ -27,7 +27,7 @@ General process of ML porjects
 
 
 4. Evaluation
-    Regression: MSE, RMSE
+    Regression: MSE, RMSE, R squared
     Classification: logloss, cross-entropy
 
 
@@ -38,3 +38,7 @@ General process of ML porjects
 
 
 6. Deployment
+
+
+Key Concepts
+Overfitting / underfitting trade-off
